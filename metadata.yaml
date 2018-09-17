@@ -1,0 +1,26 @@
+_repo: The-Gunroom_52591
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Morgan, Charles
+    alias: Morgan, Charles Langbridge
+    birthdate: 1894
+    deathdate: 1958
+    gutenberg_agent_id: '46944'
+    url: http://www.gutenberg.org/2009/agents/46944
+description: ''
+gutenberg_issued: '2016-07-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52591'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Seafaring life -- Fiction'
+- !lcsh 'Great Britain. Royal Navy -- Fiction'
+- GITenberg
+title: The Gunroom
+url: http://www.gutenberg.org/ebooks/52591
